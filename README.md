@@ -33,7 +33,7 @@ experience.
 ### Option 2: View Live
 
 This project is hosted on GitHub Pages:  
-👉 [Live Demo](https://your-username.github.
+👉 [Live Demo](https://saimafbegum.github.io/spotify-clone/)
 
 ## Screenshot
 
